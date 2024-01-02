@@ -4,8 +4,7 @@
 
 🧠 I'm currently learning RestAssured.
 
-👯‍♀️ I'm looking to collaborate on pen to collaborative efforts in writing test cases, developing test automation scripts, and sharing testing strategies.
-- Seeking collaborators enthusiastic about ensuring robust and high-quality software.
+👯‍♀️ I'm looking to collaborate on pen to collaborative efforts in writing test cases, developing test automation scripts, and sharing testing strategies.Seeking collaborators enthusiastic about ensuring robust and high-quality software.
 
 🤔 I'm looking for help Regrading Job openings.
 
