@@ -1,4 +1,4 @@
- Hi 👋, Iam Shreedhar Batthad passionate in manual and automation test engineer with experience in Core Java, Selenium, API. 👋
+ Hi 👋, Iam Shreedhar Batthad passionate in manual and automation test engineer with experience in  Functional Testing, Core Java, Selenium, API(Postman). 👋
 
 👩‍💻 I was working as a Test Engineer in Emids Technologies Banglore from 2.5 years.
 
